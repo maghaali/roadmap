@@ -1,1 +1,1 @@
-These are notebook of "_Python for Data Science and AI_" course
+These are notebook of **Python for Data Science and AI** course
