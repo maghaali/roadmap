@@ -1,2 +1,2 @@
-These are notebooks of the course **Machine Learning with Python**.
+These are notebooks of the course **Python Basics**.
 
